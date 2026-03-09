@@ -1,4 +1,4 @@
-# METAL SLUG 6 - 2D Action-Adventure Game
+# 🎮 METAL SLUG 6 - 2D Action-Adventure Game
 
 ## Overview
 **METAL SLUG 6** is a 2D action-adventure game developed in Unity using C#. Players control a character that can shoot, use grenades, and engage in close combat. The game involves surviving waves of enemies, dodging traps, and collecting power-ups across three challenging levels. The goal is to defeat all enemies and bosses while managing health and scoring points.
